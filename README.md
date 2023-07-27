@@ -19,32 +19,34 @@
 
 ## 句子成分
 
-1. 主语
+1. 主语 - 主语从句
 2. 谓语动词
-3. 宾语
-4. 宾语补语
-5. 主语补语（表语）
-6. 定语
-7. 状语
-8. 同位语
+3. 宾语 - 宾语从句
+4. 间接宾语
+5. 直接宾语
+6. 宾语补语 - 宾语补语从句
+7. 主语补语（表语） - 表语从句
+8. 定语 - 定语从句
+9. 状语 - 状语从句
+10. 同位语 - 同位语从句
 
 ## 句子类型：简单句、复合句和复杂句的区别
 
 在英语中，句子可以分为简单句、复合句和复杂句。这些句子类型的区别在于句子结构的复杂程度和包含的从句数量。
 
-1. 简单句 (Simple Sentence)：由一个独立主句组成，表达一个完整的思想。
+1. 简单句 (Simple Sentence)：由一个独立主句组成，表达一个完整的思想。不能再拆。
 
 例如：
 - She sings beautifully.
 - The cat is sleeping.
 
-2. 复合句 (Compound Sentence)：由两个或更多独立主句组成，这些主句之间使用连接词（如and、but、or）或分号进行连接。
+2. 复合句 (Compound Sentence)：由两个或更多独立主句组成，这些主句之间使用连接词（如and、but、or）或分号进行连接。不分主次。
 
 例如：
 - I like coffee, but my brother prefers tea.
 - She went to the store, and he stayed at home.
 
-3. 复杂句 (Complex Sentence)：由一个独立主句和一个或多个从句组成。从句可以是名词从句、形容词从句或副词从句。
+3. 复杂句 (Complex Sentence)：由一个独立主句和一个或多个从句组成。从句可以是名词从句、形容词从句或副词从句。主句+从句（做了句子的成分）。
 
 例如：
 - I know that she is coming tomorrow.（名词从句）
